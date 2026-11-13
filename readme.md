@@ -11,7 +11,7 @@
 | Defining functions            | https://www.w3schools.com/python/python_functions.asp        |
 | Variable scope and aliasing   | https://www.w3schools.com/python/python_scope.asp            |
 
-## CS 1 Projects:
+## CS 1 Problems:
 
 - Prime factor generation
 - List average
@@ -32,7 +32,7 @@
 | Dictionaries and text processing | https://www.w3schools.com/python/python_dictionaries.asp | https://avery-gfs.github.io/cs-curriculum/slides/view.html?src=cs-2%2F02-dictionaries%2Freadme.md |
 | Classes                          | https://www.w3schools.com/python/python_oop.asp          | https://avery-gfs.github.io/cs-curriculum/slides/view.html?src=cs-2%2F05-classes%2Freadme.md      |
 
-## CS 2 Projects:
+## CS 2 Problems:
 
 | Project          | Importance    | Link                                                                                                |
 | ---------------- | ------------- | --------------------------------------------------------------------------------------------------- |
